@@ -1,0 +1,21 @@
+{
+  "name": "lightningx001",
+  "version": "3.0.0",
+  "description": "lightning ticket system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "lightningx001",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "16.6.0"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.0.0",
+    "discord.js": "^13.16.0"
+  }
+}
